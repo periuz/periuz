@@ -10,6 +10,10 @@
 
 ###
 
+![Snake animation](https://github.com/periuz/periuz/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
@@ -26,8 +30,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github.com/periuz/periuz/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
