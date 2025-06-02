@@ -6,13 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=periuz&layout=compact&theme=dracula" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/periuz">
-    <img src="https://github.com/benyou1969/benyou1969/blob/master/globe.gif?raw=true" width="200px" />
-  </a>
-</p>
-
-
 ###
 
 <div align="center">
