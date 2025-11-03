@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Thiago</h1>
 
 <p align="center">
-   QA Test Assistant at <strong>Testing Company</strong><br>
+   QA tester at <strong>Testing Company</strong><br>
    Bachelor's student in Information Systems at <strong>Unisinos</strong>
 </p>
 
