@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Thiago</h1>
 
 <p align="center">
-   QA tester at <strong>Testing Company</strong><br>
+   QA engineer at <strong>Testing Company</strong><br>
    Bachelor's student in Information Systems at <strong>Unisinos</strong>
 </p>
 
@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,selenium,jest,postman,gherkin" />
+    <img src="https://skillicons.dev/icons?i=playwright,cypress,selenium,jest,postman,gherkin" />
   </a>
 </p>
 
